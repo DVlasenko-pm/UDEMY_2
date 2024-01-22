@@ -7,7 +7,7 @@ p {
   color:red;
 }
 .note{
-  color:gray;
+  font-size:20px;
 }
 #id-selector-demo {
   color: green;
